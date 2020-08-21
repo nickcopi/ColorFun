@@ -1,0 +1,11 @@
+{
+	"name":"Color Brusher",
+	"tags":["Visualization"],
+	"description":"Random slowly changing colors squirming around the screen to create cool patterns.",
+	"embed":{
+		"width":520,
+		"height":520,
+		"file":"colors.html"
+	},
+	"date":"March 2019"
+}
